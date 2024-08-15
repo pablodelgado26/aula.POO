@@ -50,3 +50,8 @@
 ### Smartphone.
 
 • Propriedades: marca, modelo, ano de lançamento.
+
+
+# Aprendendo Class
+
+Como funciona, como usar e qual a sintaxe
