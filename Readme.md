@@ -1,22 +1,26 @@
 # Aula POO
 
 -Conceito:
+
      • Paradigma de programação basado em objetos.
      • Objetos representam entidades do mundo real.
 
 -Principais características: 
+
      • Classe 
      • Objeto
      • Atributos
      • Métodos
 
 -Pilares da POO:
+
      • Encapsulamento: protege os dados, permitindo que apenas métodos autorizados os alterem/modifiquem.
      • Herança: permite que uma classe derive de outra, herdando seus atributos e métodos.
      • Polimorfismo: permite que classes derivadas possua diferentes comportamentos.
      • Abstração: oculta detalhes complexos.
 
- -Vantagens da POO:     
+ -Vantagens da POO:  
+
      • Reutilização de código, manutenção facilitada, modelagem e escalabilidade.
 
 # Atividade POO's
